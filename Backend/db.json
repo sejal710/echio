@@ -1,0 +1,126 @@
+{
+    "data":[
+        {
+            "Name":"Priya",
+            "Detail":"Lorem ipsum dolor sit amet consecutor se vitege alique a alique",
+            "Popularity":"Nano",
+            "Categories":"Auto & vehical",
+            "Platform":"YouTube",
+            "Campagn prefrence":"Barter"
+        },
+        {
+            "Name":"Riya",
+            "Detail":"Lorem ipsum dolor sit amet consecutor se vitege alique a alique",
+            "Popularity":"Micro",
+            "Categories":"Animation",
+            "Platform":"Instagram",
+            "Campagn prefrence":"Paid"
+        },
+        {
+            "Name":"Neha",
+            "Detail":"Lorem ipsum dolor sit amet consecutor se vitege alique a alique",
+            "Popularity":"Macro",
+            "Categories":"Agriculture & Alied sector",
+            "Platform":"YouTube",
+            "Campagn prefrence":"Paid"
+        },
+        {
+            "Name":"Latasa",
+            "Detail":"Lorem ipsum dolor sit amet consecutor se vitege alique a alique",
+            "Popularity":"Custom",
+            "Categories":"Art & Craft",
+            "Platform":"Instagram",
+            "Campagn prefrence":"Barter"
+        },
+        {
+            "Name":"Lochani",
+            "Detail":"Lorem ipsum dolor sit amet consecutor se vitege alique a alique",
+            "Popularity":"Nano",
+            "Categories":"Beauty",
+            "Platform":"YouTube",
+            "Campagn prefrence":"Paid"
+        },
+        {
+            "Name":"Sneha",
+            "Detail":"Lorem ipsum dolor sit amet consecutor se vitege alique a alique",
+            "Popularity":"Micro",
+            "Categories":"Blogs & Travel",
+            "Platform":"Instagram",
+            "Campagn prefrence":"Barter"
+        },
+        {
+            "Name":"Priya",
+            "Detail":"Lorem ipsum dolor sit amet consecutor se vitege alique a alique",
+            "Popularity":"Macro",
+            "Categories":"Auto & vehical",
+            "Platform":"YouTube",
+            "Campagn prefrence":"Paid"
+        },
+        {
+            "Name":"labdhi",
+            "Detail":"Lorem ipsum dolor sit amet consecutor se vitege alique a alique",
+            "Popularity":"Custom",
+            "Categories":"Animation",
+            "Platform":"Instagram",
+            "Campagn prefrence":"Barter"
+        },
+        {
+            "Name":"Riya",
+            "Detail":"Lorem ipsum dolor sit amet consecutor se vitege alique a alique",
+            "Popularity":"Nano",
+            "Categories":"Agriculture & Alied sector",
+            "Platform":"YouTube",
+            "Campagn prefrence":"Paid"
+        },
+        {
+            "Name":"Latasha",
+            "Detail":"Lorem ipsum dolor sit amet consecutor se vitege alique a alique",
+            "Popularity":"Micro",
+            "Categories":"Beauty",
+            "Platform":"Instagram",
+            "Campagn prefrence":"Barter"
+        },
+        {
+            "Name":"Priya",
+            "Detail":"Lorem ipsum dolor sit amet consecutor se vitege alique a alique",
+            "Popularity":"Macro",
+            "Categories":"Blogs & Travel",
+            "Platform":"YouTube",
+            "Campagn prefrence":"Paid"
+        },
+        {
+            "Name":"Siya",
+            "Detail":"Lorem ipsum dolor sit amet consecutor se vitege alique a alique",
+            "Popularity":"Custom",
+            "Categories":"Auto & vehical",
+            "Platform":"Instagram",
+            "Campagn prefrence":"Barter"
+        },
+        {
+            "Name":"Veshu",
+            "Detail":"Lorem ipsum dolor sit amet consecutor se vitege alique a alique",
+            "Popularity":"Nano",
+            "Categories":"Blogs & Travel",
+            "Platform":"YouTube",
+            "Campagn prefrence":"Paid"
+        },
+        {
+            "Name":"Sampadha",
+            "Detail":"Lorem ipsum dolor sit amet consecutor se vitege alique a alique",
+            "Popularity":"Micro",
+            "Categories":"Auto & vehical",
+            "Platform":"Instagram",
+            "Campagn prefrence":"Barter"
+        },
+        {
+            "Name":"Ekta",
+            "Detail":"Lorem ipsum dolor sit amet consecutor se vitege alique a alique",
+            "Popularity":"Custom",
+            "Categories":"Beauty",
+            "Platform":"Instagram",
+            "Campagn prefrence":"Paid"
+        }
+
+
+    ]
+}
