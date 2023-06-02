@@ -1,0 +1,46 @@
+.home{
+  min-height: 100vh;
+  position: absolute;
+  z-index: -1;
+  display : flex;
+  width: 100%;
+  gap: 3px;
+  margin-top: 60px;
+}
+.filter{
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+}
+
+.popularityDiv {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.title {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.checkboxes{
+  display: flex;
+  flex-direction: column;
+}
+.checkboxes label {
+  display: block;
+  margin-bottom: 5px;
+
+}
+
+.checkboxes input[type='checkbox'] {
+  margin-right: 5px;
+}
+
+.data{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 80%;
+  padding: 10px;
+}

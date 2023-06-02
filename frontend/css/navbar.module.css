@@ -1,0 +1,41 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: #f2f2f2;
+    height: 60px;
+    padding: 0 30px;
+    width: 95%;
+    border-radius: 30px;
+    position: fixed;
+    z-index: 1;
+  }
+  
+  .leftCorner, .rightCorner {
+    display: flex;
+    align-items: center;
+    color: gray;
+    justify-content: center;
+    gap:20px;
+    height: 100%;
+  }
+  
+  .centerd{
+    display: flex;
+    gap: 10px;
+    height: 100%;
+    align-items: center;
+  }
+
+  .center {
+    font-weight: bold;
+    height: 100%;
+    display: flex;
+    align-items: center;
+  }
+  
+  .underline {
+    gap: 5px;
+    border-bottom: 1px solid red;
+  }
+
+  
